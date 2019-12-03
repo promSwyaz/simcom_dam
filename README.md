@@ -4,4 +4,4 @@ All information is tested and based on SIM7000E modules, but they are identical 
 =============================
 
 #promSwyaz:
-In file myEdits, I will be towrite all my Edits in this repo!!!
+In file - <myEdits>, I will be to write all my Edits in this repo!!!
